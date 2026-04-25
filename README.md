@@ -8,9 +8,7 @@
 
 Me chamo Valdir Neto, tenho 21 anos e sou natural de Minas Gerais. Atualmente curso Sistemas de Informação no IFMG-SJE. Sou apaixonado por tecnologia, desenvolvimento e trabalho em equipe!
 
-Uso meu GitHub como um registro da minha vida acadêmica e projetos para aprimoramento em dessenvolvimento Full-Stack.
-
-**Foco atual:** Aprimorar meu conheimento e desenvolvimento Full-Stack (Java Spring Boot e HTML) e novos desafios acadêmicos no 5º período.
+Uso meu GitHub como um registro da minha vida acadêmica e projetos para aprimoramento em desenvolvimento Full-Stack (Java Spring Boot e HTML).
  
 #
 
