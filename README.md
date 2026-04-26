@@ -98,7 +98,7 @@ Uso meu GitHub como um registro da minha vida acadêmica e projetos para aprimor
     title="GitHub"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
 />
 
 <img 
@@ -118,6 +118,24 @@ Uso meu GitHub como um registro da minha vida acadêmica e projetos para aprimor
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
+/>
+
+<img
+    align="left"
+    alt="Arduino"
+    title="Arduino"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg"
+/>
+
+<img
+    align="left"
+    alt="Inkscape"
+    title="Inkscape"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original-wordmark.svg"
 />
 <br/>
 <br/>
