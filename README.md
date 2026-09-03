@@ -6,9 +6,9 @@
 
 #
 
-Me chamo Valdir Neto, tenho 21 anos e sou natural de Minas Gerais. Atualmente curso Sistemas de Informação no IFMG-SJE. Sou apaixonado por tecnologia, desenvolvimento e trabalho em equipe!
+Me chamo Valdir Neto, tenho 22 anos e sou natural de Minas Gerais. Atualmente curso o 6º período de Sistemas de Informação no IFMG-SJE. Sou apaixonado por tecnologia e por utilizar o código para resolver problemas reais.
 
-Uso meu GitHub como um registro da minha vida acadêmica e projetos para aprimoramento em desenvolvimento Full-Stack (Java Spring Boot e HTML).
+Uso meu GitHub como um registro da minha evolução profissional, unindo o Desenvolvimento Full-Stack (Java Spring Boot, React, Next.js e Docker) com a Pesquisa Aplicada. Tenho forte interesse em automação, robótica (Arduino/C++) e análise de decisão (Pesquisa Operacional), sempre buscando aliar inovação tecnológica e rigor científico.
  
 #
 
@@ -42,6 +42,63 @@ Uso meu GitHub como um registro da minha vida acadêmica e projetos para aprimor
 />
 <img 
     align="left" 
+    alt="C#" 
+    title="C#"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C++" 
+    title="C++"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js"
+    title="Next.js" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -56,32 +113,6 @@ Uso meu GitHub como um registro da minha vida acadêmica e projetos para aprimor
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="C++" 
-    title="C++"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-/>
 
 <img 
     align="left" 
@@ -91,7 +122,23 @@ Uso meu GitHub como um registro da minha vida acadêmica e projetos para aprimor
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
 
+<img
+    align="left"
+    alt="Docker"
+    title="Docker"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+/>
 <img
     align="left"
     alt="Github"
@@ -100,7 +147,6 @@ Uso meu GitHub como um registro da minha vida acadêmica e projetos para aprimor
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
 />
-
 <img 
     align="left" 
     alt="Git" 
@@ -109,8 +155,6 @@ Uso meu GitHub como um registro da minha vida acadêmica e projetos para aprimor
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
-
 <img
     align="left"
     alt="Vercel"
@@ -128,7 +172,14 @@ Uso meu GitHub como um registro da minha vida acadêmica e projetos para aprimor
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg"
 />
-
+<img 
+    align="left" 
+    alt="LaTeX"
+    title="LaTeX" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" 
+/>
 <img
     align="left"
     alt="Inkscape"
